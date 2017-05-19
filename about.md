@@ -1,15 +1,15 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi there, I'm Alex from Jalisco, México. I studied Computer Engineering at
+the University of Guadalajara. Actually, I'm working as a software developer.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+When I'm not at work I enjoy playing soccer, spending time with my family,
+drinking a beer with friends, listening to music and occasionally playing
+a good chess game.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I'll be sharing not only things about tech I learn working but also stuff
+I consider important or I just like.
